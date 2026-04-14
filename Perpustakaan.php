@@ -1,5 +1,5 @@
 <?php
 echo "Ini perpustakaan"
 
-echo"Saya mahasiswa"
+echo "Saya mahasiswa"
 ?>
